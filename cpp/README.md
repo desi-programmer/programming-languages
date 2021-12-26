@@ -3,6 +3,11 @@
  - ### Using MINGW( it's also g++ ) for Windows
  - ### G++ for Linux or Mac.
 
+ ### `Specific version`
+ ```
+ g++.exe (MinGW.org GCC-6.3.0-1) 6.3.0
+ ```
+
 ## `Using Time`
 
  If you want to see the execution time.
